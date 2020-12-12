@@ -1,0 +1,12 @@
+
+{
+    "apps": [{
+        "name": "Store api",
+        "script": "./bin/www.js",
+        "watch": false,
+         "ignore_watch": [
+            "node_modules",
+            "logs"
+        ]
+    }]
+}
